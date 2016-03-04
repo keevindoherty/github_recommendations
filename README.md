@@ -8,7 +8,7 @@ Try out both scripts! They might take a while. This was pretty much catered comp
 To install requirements, either set up and activate your virtualenv from the project root with:
 
 ```sh
-$ virtualenv venv
+$ virtualenv venv # virtualenv2 if you're on Arch
 $ source venv/bin/activate
 $ pip install -r requirements.txt
 ```
